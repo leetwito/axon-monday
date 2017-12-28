@@ -1,0 +1,36 @@
+coursera: 
+https://www.coursera.org/learn/machine-learning
+https://www.coursera.org/learn/robotics-learning
+
+GitHub:
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+https://git-scm.com/book/en/v2
+
+SVD:
+http://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm
+
+Numpy:
+http://cs231n.github.io/python-numpy-tutorial/
+
+SVM:
+https://pythonprogramming.net/support-vector-machine-intro-machine-learning-tutorial/
+
+Gradient Descent Optimization:
+http://ruder.io/optimizing-gradient-descent/index.html
+
+NN full explaination:
+https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/neural_networks.html
+https://machinelearningmastery.com/
+
+DL GitHub:
+Perceptron: https://github.com/oba2311/CS156/blob/master/Final/Preceptron/Perceptron.ipynb
+Activation function: https://github.com/oba2311/CS156/blob/master/Final/Act.Funcs/CS156.final.activationfuncs.ipynb
+Multilayer Perceptron: https://github.com/oba2311/CS156/blob/master/Final/MLP_final.ipynb
+
+TensorFlow:
+https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
+https://www.tensorflow.org/get_started/mnist/beginners
+
+Conv nets:
+http://cs231n.github.io/convolutional-networks/
+https://www.tensorflow.org/tutorials/deep_cnn#cifar-10_model
